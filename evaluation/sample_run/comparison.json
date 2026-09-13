@@ -1,0 +1,16 @@
+{
+  "v1": {
+    "accepted": 24,
+    "errors": 0,
+    "direction_accuracy": 0.6666666666666666,
+    "event_accuracy": 0.9166666666666666,
+    "direction_macro_f1": 0.6747109100050276
+  },
+  "v2": {
+    "accepted": 24,
+    "errors": 0,
+    "direction_accuracy": 0.8333333333333334,
+    "event_accuracy": 0.9583333333333334,
+    "direction_macro_f1": 0.8278388278388279
+  }
+}

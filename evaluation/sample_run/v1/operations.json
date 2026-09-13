@@ -1,0 +1,170 @@
+[
+  {
+    "id": "n001",
+    "cache_hit": false,
+    "latency_s": 0.00017170002683997154,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n002",
+    "cache_hit": false,
+    "latency_s": 0.00018919992726296186,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n003",
+    "cache_hit": false,
+    "latency_s": 0.0001596000511199236,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n004",
+    "cache_hit": false,
+    "latency_s": 0.00015049998182803392,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n005",
+    "cache_hit": false,
+    "latency_s": 0.00021659990306943655,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n006",
+    "cache_hit": false,
+    "latency_s": 0.00024149997625499964,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n007",
+    "cache_hit": false,
+    "latency_s": 0.00014490005560219288,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n008",
+    "cache_hit": false,
+    "latency_s": 0.0001702000154182315,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n009",
+    "cache_hit": false,
+    "latency_s": 0.00013840000610798597,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n010",
+    "cache_hit": false,
+    "latency_s": 0.00013870000839233398,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n011",
+    "cache_hit": false,
+    "latency_s": 0.0001713000237941742,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n012",
+    "cache_hit": false,
+    "latency_s": 0.00016559998039156199,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n013",
+    "cache_hit": false,
+    "latency_s": 0.00020849995780736208,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n014",
+    "cache_hit": false,
+    "latency_s": 0.00016629998572170734,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n015",
+    "cache_hit": false,
+    "latency_s": 0.00034689996391534805,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n016",
+    "cache_hit": false,
+    "latency_s": 0.00025759998243302107,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n017",
+    "cache_hit": false,
+    "latency_s": 0.00028879998717457056,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n018",
+    "cache_hit": false,
+    "latency_s": 0.0004388000816106796,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n019",
+    "cache_hit": false,
+    "latency_s": 0.00030940002761781216,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n020",
+    "cache_hit": false,
+    "latency_s": 0.00028820009902119637,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n021",
+    "cache_hit": false,
+    "latency_s": 0.0003117000451311469,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n022",
+    "cache_hit": false,
+    "latency_s": 0.00052429991774261,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n023",
+    "cache_hit": false,
+    "latency_s": 0.0003645999822765589,
+    "attempts": 1,
+    "usage": null
+  },
+  {
+    "id": "n024",
+    "cache_hit": false,
+    "latency_s": 0.000381499994546175,
+    "attempts": 1,
+    "usage": null
+  }
+]

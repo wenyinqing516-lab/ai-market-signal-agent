@@ -1,0 +1,35 @@
+[
+  {
+    "horizon": 1,
+    "events": 24,
+    "valid": 23,
+    "active": 16,
+    "censored_or_missing": 1,
+    "mean_active_net": -0.00023002968577340993,
+    "always_long_gross": -0.0006116232062543549,
+    "mean_active_excess": -0.002297704256083985,
+    "hit_rate": 0.5625
+  },
+  {
+    "horizon": 5,
+    "events": 24,
+    "valid": 22,
+    "active": 15,
+    "censored_or_missing": 2,
+    "mean_active_net": -0.005792875150962673,
+    "always_long_gross": 0.006361748577316357,
+    "mean_active_excess": 0.00168405380716193,
+    "hit_rate": 0.4
+  },
+  {
+    "horizon": 20,
+    "events": 24,
+    "valid": 22,
+    "active": 15,
+    "censored_or_missing": 2,
+    "mean_active_net": -0.002744070900238175,
+    "always_long_gross": 0.015213616464134968,
+    "mean_active_excess": 0.002116152362519682,
+    "hit_rate": 0.6
+  }
+]

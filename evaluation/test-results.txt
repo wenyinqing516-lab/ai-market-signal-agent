@@ -1,0 +1,18 @@
+test_live_adapter_contract_without_network (test_adapter.AdapterTests.test_live_adapter_contract_without_network) ... ok
+test_refusal_is_failure_not_offline_fallback (test_adapter.AdapterTests.test_refusal_is_failure_not_offline_fallback) ... ok
+test_retry_is_bounded (test_adapter.AdapterTests.test_retry_is_bounded) ... WARNING:root:api_error key=e570fe9630e0 type=RateLimitError attempt=1
+WARNING:root:api_error key=e570fe9630e0 type=RateLimitError attempt=2
+WARNING:root:api_error key=e570fe9630e0 type=RateLimitError attempt=3
+ok
+test_cache_key_changes_with_prompt (test_core.CoreTests.test_cache_key_changes_with_prompt) ... ok
+test_censored_is_not_zero (test_core.CoreTests.test_censored_is_not_zero) ... ok
+test_future_prices_do_not_change_entry (test_core.CoreTests.test_future_prices_do_not_change_entry) ... ok
+test_naive_timestamp_rejected (test_core.CoreTests.test_naive_timestamp_rejected) ... ok
+test_schema_and_abstention (test_core.CoreTests.test_schema_and_abstention) ... ok
+test_short_cost_and_neutral (test_core.CoreTests.test_short_cost_and_neutral) ... ok
+test_strictly_later_entry_and_horizon (test_core.CoreTests.test_strictly_later_entry_and_horizon) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.086s
+
+OK

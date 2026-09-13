@@ -1,0 +1,146 @@
+[
+  {
+    "id": "n001",
+    "direction": "bullish",
+    "event": "Earnings",
+    "split": "dev"
+  },
+  {
+    "id": "n002",
+    "direction": "bearish",
+    "event": "Earnings",
+    "split": "dev"
+  },
+  {
+    "id": "n003",
+    "direction": "bullish",
+    "event": "Guidance",
+    "split": "dev"
+  },
+  {
+    "id": "n004",
+    "direction": "bearish",
+    "event": "Guidance",
+    "split": "dev"
+  },
+  {
+    "id": "n005",
+    "direction": "bullish",
+    "event": "Regulation",
+    "split": "dev"
+  },
+  {
+    "id": "n006",
+    "direction": "bearish",
+    "event": "Regulation",
+    "split": "dev"
+  },
+  {
+    "id": "n007",
+    "direction": "bullish",
+    "event": "Product",
+    "split": "dev"
+  },
+  {
+    "id": "n008",
+    "direction": "bearish",
+    "event": "Product",
+    "split": "dev"
+  },
+  {
+    "id": "n009",
+    "direction": "bullish",
+    "event": "Macro",
+    "split": "dev"
+  },
+  {
+    "id": "n010",
+    "direction": "bearish",
+    "event": "Macro",
+    "split": "dev"
+  },
+  {
+    "id": "n011",
+    "direction": "neutral",
+    "event": "Other",
+    "split": "dev"
+  },
+  {
+    "id": "n012",
+    "direction": "neutral",
+    "event": "Guidance",
+    "split": "dev"
+  },
+  {
+    "id": "n013",
+    "direction": "neutral",
+    "event": "Regulation",
+    "split": "test"
+  },
+  {
+    "id": "n014",
+    "direction": "neutral",
+    "event": "Earnings",
+    "split": "test"
+  },
+  {
+    "id": "n015",
+    "direction": "neutral",
+    "event": "Earnings",
+    "split": "test"
+  },
+  {
+    "id": "n016",
+    "direction": "neutral",
+    "event": "Guidance",
+    "split": "test"
+  },
+  {
+    "id": "n017",
+    "direction": "neutral",
+    "event": "Guidance",
+    "split": "test"
+  },
+  {
+    "id": "n018",
+    "direction": "neutral",
+    "event": "Product",
+    "split": "test"
+  },
+  {
+    "id": "n019",
+    "direction": "bullish",
+    "event": "Other",
+    "split": "test"
+  },
+  {
+    "id": "n020",
+    "direction": "bearish",
+    "event": "Other",
+    "split": "test"
+  },
+  {
+    "id": "n021",
+    "direction": "neutral",
+    "event": "Other",
+    "split": "test"
+  },
+  {
+    "id": "n022",
+    "direction": "neutral",
+    "event": "Guidance",
+    "split": "test"
+  },
+  {
+    "id": "n023",
+    "direction": "bullish",
+    "event": "Earnings",
+    "split": "test"
+  },
+  {
+    "id": "n024",
+    "direction": "bullish",
+    "event": "Product",
+    "split": "test"
+  }
+]

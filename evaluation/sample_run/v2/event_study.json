@@ -1,0 +1,35 @@
+[
+  {
+    "horizon": 1,
+    "events": 24,
+    "valid": 23,
+    "active": 12,
+    "censored_or_missing": 1,
+    "mean_active_net": 0.002174163123309462,
+    "always_long_gross": -0.0006116232062543549,
+    "mean_active_excess": -0.0019678467004608604,
+    "hit_rate": 0.5833333333333334
+  },
+  {
+    "horizon": 5,
+    "events": 24,
+    "valid": 22,
+    "active": 11,
+    "censored_or_missing": 2,
+    "mean_active_net": -0.006264573343168696,
+    "always_long_gross": 0.006361748577316357,
+    "mean_active_excess": 0.003983611029742116,
+    "hit_rate": 0.45454545454545453
+  },
+  {
+    "horizon": 20,
+    "events": 24,
+    "valid": 22,
+    "active": 11,
+    "censored_or_missing": 2,
+    "mean_active_net": -0.022971594602975466,
+    "always_long_gross": 0.015213616464134968,
+    "mean_active_excess": -0.007208354732215725,
+    "hit_rate": 0.5454545454545454
+  }
+]

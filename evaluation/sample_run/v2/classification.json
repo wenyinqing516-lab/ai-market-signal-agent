@@ -1,0 +1,188 @@
+{
+  "labeled_successes": 24,
+  "direction_accuracy": 0.8333333333333334,
+  "event_accuracy": 0.9583333333333334,
+  "direction_macro_f1": 0.8278388278388279,
+  "confusion_gold_rows": {
+    "bullish": {
+      "bullish": 6,
+      "bearish": 1,
+      "neutral": 1
+    },
+    "bearish": {
+      "bullish": 0,
+      "bearish": 5,
+      "neutral": 1
+    },
+    "neutral": {
+      "bullish": 0,
+      "bearish": 1,
+      "neutral": 9
+    }
+  },
+  "failures": [
+    {
+      "id": "n019",
+      "predicted": [
+        "neutral",
+        "Other"
+      ],
+      "expected": [
+        "bullish",
+        "Other"
+      ]
+    },
+    {
+      "id": "n020",
+      "predicted": [
+        "neutral",
+        "Other"
+      ],
+      "expected": [
+        "bearish",
+        "Other"
+      ]
+    },
+    {
+      "id": "n022",
+      "predicted": [
+        "bearish",
+        "Guidance"
+      ],
+      "expected": [
+        "neutral",
+        "Guidance"
+      ]
+    },
+    {
+      "id": "n023",
+      "predicted": [
+        "bullish",
+        "Guidance"
+      ],
+      "expected": [
+        "bullish",
+        "Earnings"
+      ]
+    },
+    {
+      "id": "n024",
+      "predicted": [
+        "bearish",
+        "Product"
+      ],
+      "expected": [
+        "bullish",
+        "Product"
+      ]
+    }
+  ],
+  "total_articles": 24,
+  "accepted": 24,
+  "errors": 0,
+  "acceptance_rate": 1.0,
+  "dev": {
+    "labeled_successes": 12,
+    "direction_accuracy": 1.0,
+    "event_accuracy": 1.0,
+    "direction_macro_f1": 1.0,
+    "confusion_gold_rows": {
+      "bullish": {
+        "bullish": 5,
+        "bearish": 0,
+        "neutral": 0
+      },
+      "bearish": {
+        "bullish": 0,
+        "bearish": 5,
+        "neutral": 0
+      },
+      "neutral": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 2
+      }
+    },
+    "failures": []
+  },
+  "test": {
+    "labeled_successes": 12,
+    "direction_accuracy": 0.6666666666666666,
+    "event_accuracy": 0.9166666666666666,
+    "direction_macro_f1": 0.4411764705882353,
+    "confusion_gold_rows": {
+      "bullish": {
+        "bullish": 1,
+        "bearish": 1,
+        "neutral": 1
+      },
+      "bearish": {
+        "bullish": 0,
+        "bearish": 0,
+        "neutral": 1
+      },
+      "neutral": {
+        "bullish": 0,
+        "bearish": 1,
+        "neutral": 7
+      }
+    },
+    "failures": [
+      {
+        "id": "n019",
+        "predicted": [
+          "neutral",
+          "Other"
+        ],
+        "expected": [
+          "bullish",
+          "Other"
+        ]
+      },
+      {
+        "id": "n020",
+        "predicted": [
+          "neutral",
+          "Other"
+        ],
+        "expected": [
+          "bearish",
+          "Other"
+        ]
+      },
+      {
+        "id": "n022",
+        "predicted": [
+          "bearish",
+          "Guidance"
+        ],
+        "expected": [
+          "neutral",
+          "Guidance"
+        ]
+      },
+      {
+        "id": "n023",
+        "predicted": [
+          "bullish",
+          "Guidance"
+        ],
+        "expected": [
+          "bullish",
+          "Earnings"
+        ]
+      },
+      {
+        "id": "n024",
+        "predicted": [
+          "bearish",
+          "Product"
+        ],
+        "expected": [
+          "bullish",
+          "Product"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "provider": "offline",
+  "model": "keyword baseline",
+  "data_notice": "Check data provenance. Bundled samples are SYNTHETIC, not investment evidence.",
+  "cost_bps_round_trip": 10,
+  "entry_rule": "first close strictly after available_at + 5 minutes",
+  "input_sha256": {
+    "data/sample/news.jsonl": "576f462f94b6598009d6719c096e84b62f6ad60eefa9b5e683d626ab1857392f",
+    "data/sample/prices.csv": "258fcad48ab6043c79f4b5e63b878ec33a159ed00208c75e1167a2645bd00d34"
+  },
+  "prompt_sha256": {
+    "v1": "25d869205d2460f386e887b0dff1bc093f1857b164c164645e98bc6112c82e9c",
+    "v2": "b3215a953933a07a0ef5cda6b9cecfde47d92d173728f34b3cff69ffff4a1f0c"
+  }
+}
